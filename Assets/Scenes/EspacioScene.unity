@@ -2774,9 +2774,9 @@ MonoBehaviour:
   playerTransform: {fileID: 2058873802}
   sphereTransform: {fileID: 1016078506}
   punto1: {x: 0, y: 0, z: 0}
-  speed: 1
+  verticalSpeed: 0
   speedRotation: 0
-  speedSphere: 0
+  speedSphere: 2
   saltar: 0
 --- !u!4 &2086590191
 Transform:
